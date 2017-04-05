@@ -1,0 +1,14 @@
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\bin\Debug\EfonDateGenerator.exe.config
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\bin\Debug\EfonDateGenerator.exe
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\bin\Debug\EfonDateGenerator.pdb
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\EfonDateGenerator.csprojResolveAssemblyReference.cache
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\MainWindow.g.cs
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\App.g.cs
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\EfonDateGenerator_MarkupCompile.cache
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\EfonDateGenerator_MarkupCompile.lref
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\MainWindow.baml
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\EfonDateGenerator.g.resources
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\EfonDateGenerator.Properties.Resources.resources
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\EfonDateGenerator.csproj.GenerateResource.Cache
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\EfonDateGenerator.exe
+c:\users\js\documents\visual studio 2015\Projects\EfonDateGenerator\EfonDateGenerator\obj\Debug\EfonDateGenerator.pdb
